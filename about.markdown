@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Ethan Ansel-Kelly. Living in Brighton, MA (read Boston). I recently decided to change careers, learn web development, and become a software engineer. It's an exciting new journey, and I've only just started.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Lately most of my working hours are spent looking for that first job after completing my coding bootcamp. Ideally something fullstack but most importantly something where I can maximize my growth as a developer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here's a non-comprehensive list of things I care about:
+-Family and friends :)
+-Gaming and esports
+-Food in every way possible
+-Exercising
+-Environmentalism
+-Live music
+-Getting out of the city now and then
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can reach me via email, GitHub, or LinkedIn. As they say: DMs are open.
